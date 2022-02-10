@@ -1,4 +1,4 @@
-### Hi there 👋
+### Web Portfolio with HTML, CSS and JavaScript
 
 <!--
 **bentobenack/bentobenack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
